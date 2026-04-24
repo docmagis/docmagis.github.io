@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Portrait placeholder - replace with your photo (9:16)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#13264b"/>
+      <stop offset="55%" stop-color="#0b1e3f"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#c9a35a" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#c9a35a" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#c9a35a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#f7f1e6" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1600" fill="url(#bg)"/>
+  <rect width="900" height="1600" fill="url(#dots)"/>
+  <rect width="900" height="1600" fill="url(#glow)"/>
+  <g transform="translate(450 700)" font-family="Georgia, serif" text-anchor="middle">
+    <circle r="140" fill="none" stroke="#c9a35a" stroke-width="2" stroke-opacity="0.5"/>
+    <circle r="120" fill="#c9a35a" fill-opacity="0.08" stroke="#c9a35a" stroke-width="1" stroke-opacity="0.6"/>
+    <text y="18" font-size="120" font-style="italic" fill="#c9a35a">K</text>
+  </g>
+  <g transform="translate(450 1000)" font-family="Georgia, serif" text-anchor="middle" fill="#f7f1e6">
+    <text y="0" font-size="46" font-style="italic" letter-spacing="1">Your portrait here</text>
+    <text y="56" font-size="22" fill-opacity="0.75" letter-spacing="6">9 : 16 &#8212; PORTRAIT</text>
+    <text y="110" font-size="18" fill-opacity="0.6" letter-spacing="3">REPLACE  assets/home-portrait.svg</text>
+  </g>
+  <g stroke="#c9a35a" stroke-opacity="0.5" fill="none" stroke-width="1.5">
+    <path d="M60 60 L60 140 M60 60 L140 60"/>
+    <path d="M840 60 L840 140 M840 60 L760 60"/>
+    <path d="M60 1540 L60 1460 M60 1540 L140 1540"/>
+    <path d="M840 1540 L840 1460 M840 1540 L760 1540"/>
+  </g>
+</svg>

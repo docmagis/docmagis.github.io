@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2100 900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Editorial wide image - family and faith (21:9) - replace with your photo">
+  <defs>
+    <linearGradient id="bgS1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0b1e3f"/>
+      <stop offset="50%" stop-color="#13264b"/>
+      <stop offset="100%" stop-color="#7a1e2c"/>
+    </linearGradient>
+    <radialGradient id="gS1" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#c9a35a" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#c9a35a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="2100" height="900" fill="url(#bgS1)"/>
+  <rect width="2100" height="900" fill="url(#gS1)"/>
+  <g transform="translate(1050 420)" text-anchor="middle" font-family="Georgia, serif" fill="#f7f1e6">
+    <text y="0" font-size="64" font-style="italic">Figure 1 &#8212; Family &amp; Faith</text>
+    <text y="70" font-size="22" fill-opacity="0.8" letter-spacing="8">EDITORIAL WIDE 21 : 9</text>
+    <text y="108" font-size="16" fill-opacity="0.6" letter-spacing="4">REPLACE  assets/story-1.svg</text>
+  </g>
+  <g stroke="#c9a35a" stroke-opacity="0.5" fill="none" stroke-width="1.5">
+    <path d="M80 80 L80 160 M80 80 L160 80"/>
+    <path d="M2020 820 L2020 740 M2020 820 L1940 820"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Journey landscape/immersion placeholder (4:5) - replace with your photo">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e3c98f"/>
+      <stop offset="55%" stop-color="#c9a35a"/>
+      <stop offset="100%" stop-color="#13264b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg3)"/>
+  <g fill="#0b1e3f" opacity="0.85">
+    <path d="M0 980 L180 860 L320 920 L480 820 L640 890 L820 800 L980 860 L1200 820 L1200 1500 L0 1500 Z"/>
+  </g>
+  <g fill="#0b1e3f" opacity="1">
+    <path d="M0 1100 L220 1020 L420 1080 L620 1000 L820 1060 L1020 1000 L1200 1060 L1200 1500 L0 1500 Z"/>
+  </g>
+  <g opacity="0.6">
+    <circle cx="240" cy="320" r="70" fill="#f7f1e6"/>
+    <circle cx="240" cy="320" r="100" fill="#f7f1e6" fill-opacity="0.2"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#f7f1e6" text-anchor="middle">
+    <text x="600" y="720" font-size="46" font-style="italic">Immersion &amp; service</text>
+    <text x="600" y="774" font-size="42" font-style="italic">in Mindanao</text>
+    <text x="600" y="826" font-size="18" fill-opacity="0.85" letter-spacing="6">LANDSCAPE 4 : 5</text>
+    <text x="600" y="858" font-size="14" fill-opacity="0.6" letter-spacing="3">REPLACE  assets/journey-3.svg</text>
+  </g>
+</svg>

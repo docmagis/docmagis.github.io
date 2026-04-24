@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Editorial image - immersion in Mindanao (4:3) - replace with your photo">
+  <defs>
+    <linearGradient id="bgS2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e3c98f"/>
+      <stop offset="100%" stop-color="#7a1e2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bgS2)"/>
+  <path d="M0 600 L200 520 L380 570 L560 500 L760 560 L960 490 L1200 540 L1200 900 L0 900 Z" fill="#0b1e3f"/>
+  <g opacity="0.75">
+    <circle cx="240" cy="210" r="60" fill="#f7f1e6"/>
+  </g>
+  <g transform="translate(600 400)" text-anchor="middle" font-family="Georgia, serif" fill="#f7f1e6">
+    <text y="0" font-size="52" font-style="italic">Figure 2 &#8212; Immersion</text>
+    <text y="56" font-size="20" fill-opacity="0.85" letter-spacing="6">EDITORIAL 4 : 3</text>
+    <text y="90" font-size="14" fill-opacity="0.6" letter-spacing="3">REPLACE  assets/story-2.svg</text>
+  </g>
+</svg>

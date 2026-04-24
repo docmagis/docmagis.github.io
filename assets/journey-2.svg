@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Journey portrait placeholder (9:16) - replace with your photo">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7a1e2c"/>
+      <stop offset="100%" stop-color="#0b1e3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1600" fill="url(#bg2)"/>
+  <g opacity="0.35" stroke="#f7f1e6" stroke-width="2" fill="none">
+    <path d="M120 200 Q450 600 780 200" />
+    <path d="M120 360 Q450 760 780 360" />
+    <path d="M120 520 Q450 920 780 520" />
+    <path d="M120 680 Q450 1080 780 680" />
+    <path d="M120 1000 Q450 1400 780 1000" />
+  </g>
+  <g transform="translate(450 780)" text-anchor="middle">
+    <circle r="100" fill="#c9a35a" fill-opacity="0.15" stroke="#c9a35a" stroke-width="1.5"/>
+    <text y="14" font-family="Georgia, serif" font-size="80" font-style="italic" fill="#c9a35a">&#9834;</text>
+  </g>
+  <g font-family="Georgia, serif" fill="#f7f1e6" text-anchor="middle">
+    <text x="450" y="1020" font-size="42" font-style="italic">Art, performance, identity</text>
+    <text x="450" y="1064" font-size="18" fill-opacity="0.8" letter-spacing="6">PORTRAIT 9 : 16</text>
+    <text x="450" y="1096" font-size="14" fill-opacity="0.6" letter-spacing="3">REPLACE  assets/journey-2.svg</text>
+  </g>
+</svg>

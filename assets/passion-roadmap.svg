@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Passion plan road map (4:5) - replace with your photo or map graphic">
+  <defs>
+    <linearGradient id="bgP" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7f1e6"/>
+      <stop offset="100%" stop-color="#e3d7bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgP)"/>
+  <g fill="none" stroke="#0b1e3f" stroke-opacity="0.08" stroke-width="1">
+    <path d="M0 0 L1000 1250"/>
+    <path d="M1000 0 L0 1250"/>
+    <path d="M0 620 L1000 620"/>
+    <path d="M500 0 L500 1250"/>
+  </g>
+  <path d="M120 180 Q 360 300 300 500 T 640 780 T 860 1080"
+        fill="none" stroke="#c9a35a" stroke-width="5" stroke-dasharray="14 10"/>
+  <g font-family="Georgia, serif">
+    <circle cx="120" cy="180" r="14" fill="#0b1e3f"/>
+    <text x="148" y="186" font-size="22" fill="#0b1e3f">NOW &#8212; Medical Biology</text>
+
+    <circle cx="300" cy="500" r="14" fill="#0b1e3f"/>
+    <text x="328" y="506" font-size="22" fill="#0b1e3f">Medical School</text>
+
+    <circle cx="640" cy="780" r="14" fill="#0b1e3f"/>
+    <text x="668" y="786" font-size="22" fill="#0b1e3f">Residency &amp; Community</text>
+
+    <circle cx="860" cy="1080" r="16" fill="#7a1e2c"/>
+    <text x="760" y="1132" font-size="22" fill="#0b1e3f" font-style="italic">A person for others</text>
+  </g>
+  <g font-family="Georgia, serif" text-anchor="middle" fill="#0b1e3f">
+    <text x="500" y="90" font-size="28" font-style="italic">The Road Map</text>
+    <text x="500" y="1210" font-size="14" fill-opacity="0.6" letter-spacing="4">REPLACE  assets/passion-roadmap.svg</text>
+  </g>
+</svg>

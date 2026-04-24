@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Editorial duo image - performance and arts (4:5) - replace with your photo">
+  <defs>
+    <linearGradient id="bgS3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7a1e2c"/>
+      <stop offset="100%" stop-color="#0b1e3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#bgS3)"/>
+  <g transform="translate(500 520)" text-anchor="middle">
+    <circle r="120" fill="#c9a35a" fill-opacity="0.12" stroke="#c9a35a" stroke-width="1.5"/>
+    <text y="24" font-family="Georgia, serif" font-size="110" font-style="italic" fill="#c9a35a">&#10023;</text>
+  </g>
+  <g font-family="Georgia, serif" text-anchor="middle" fill="#f7f1e6">
+    <text x="500" y="820" font-size="44" font-style="italic">Figure 3 &#8212; Stage &amp; Arts</text>
+    <text x="500" y="870" font-size="20" fill-opacity="0.85" letter-spacing="6">EDITORIAL 4 : 5</text>
+    <text x="500" y="904" font-size="14" fill-opacity="0.6" letter-spacing="3">REPLACE  assets/story-3.svg</text>
+  </g>
+</svg>

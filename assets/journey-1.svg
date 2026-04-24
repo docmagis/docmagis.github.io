@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Journey landscape placeholder (16:10) - replace with your photo">
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e3d7bd"/>
+      <stop offset="60%" stop-color="#c9a35a"/>
+      <stop offset="100%" stop-color="#7a1e2c"/>
+    </linearGradient>
+    <linearGradient id="ground1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1e3f" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0b1e3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky1)"/>
+  <g opacity="0.7">
+    <circle cx="1150" cy="340" r="120" fill="#f7f1e6" fill-opacity="0.7"/>
+    <circle cx="1150" cy="340" r="180" fill="#f7f1e6" fill-opacity="0.15"/>
+  </g>
+  <path d="M0 720 L220 560 L380 640 L620 480 L820 620 L1080 500 L1300 600 L1600 540 L1600 1000 L0 1000 Z" fill="url(#ground1)"/>
+  <path d="M0 820 L280 760 L500 810 L760 740 L980 820 L1260 760 L1600 810 L1600 1000 L0 1000 Z" fill="#0b1e3f" opacity="0.6"/>
+  <g font-family="Georgia, serif" fill="#f7f1e6" text-anchor="middle">
+    <text x="800" y="480" font-size="44" font-style="italic">On campus &amp; with community</text>
+    <text x="800" y="524" font-size="18" fill-opacity="0.8" letter-spacing="6">LANDSCAPE 16 : 10</text>
+    <text x="800" y="556" font-size="14" fill-opacity="0.6" letter-spacing="3">REPLACE  assets/journey-1.svg</text>
+  </g>
+</svg>
